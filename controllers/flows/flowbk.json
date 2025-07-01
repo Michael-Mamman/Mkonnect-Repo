@@ -1,0 +1,1004 @@
+{
+    "version": "3.1",
+    "data_api_version": "3.0",
+    "routing_model": {
+        "MENU": [
+            "BUY_DATA",
+            "BUY_AIRTIME",
+            "QUESTION_ONE",
+            "FUND_WALLET",
+            "TUTORIALS"
+        ],
+        "BUY_DATA":[
+            "data_complete"
+        ],
+        "data_complete": [
+            "DATA_ERROR"
+        ],
+        "FUND_WALLET": [
+            "AMOUNT"
+        ],
+        "BUY_AIRTIME": [
+            "screen_cetumf"
+        ],
+        "screen_cetumf": [
+            "screen_gnsyjl"
+        ],
+        "QUESTION_ONE": [
+            "SCREEN_TWO",
+            "ERROR"
+        ],
+        "SCREEN_TWO": [
+            "SCREEN_THREE"
+        ],
+        "ERROR": [],
+        "SCREEN_THREE": []
+    },
+    "screens": [
+        {
+            "id": "QUESTION_ONE",
+            "title": "M-Konnect",
+            "data": {},
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "flow_path",
+                        "children": [
+                            {
+                                "type": "TextBody",
+                                "text": "Please provide your prepaid meter details."
+                            },
+                            {
+                                "type": "Dropdown",
+                                "label": "📍",
+                                "required": true,
+                                "name": "Dropdown_831903",
+                                "data-source": [
+                                    {
+                                        "id": "Jos Electric",
+                                        "title": "Jos Electric"
+                                    },
+                                    {
+                                        "id": "Abuja Electric",
+                                        "title": "Abuja Electric"
+                                    },
+                                    {
+                                        "id": "Ikeja Electric",
+                                        "title": "Ikeja Electric"
+                                    },
+                                    {
+                                        "id": "Eko Electric",
+                                        "title": "Eko Electric"
+                                    },
+                                    {
+                                        "id": "Kano Electric",
+                                        "title": "Kano Electric"
+                                    },
+                                    {
+                                        "id": "Enugu Electric",
+                                        "title": "Enugu Electric"
+                                    },
+                                    {
+                                        "id": "Port Harcourt lectric",
+                                        "title": "Port Harcourt Electric"
+                                    },
+                                    {
+                                        "id": "Ibadan Electric",
+                                        "title": "Ibadan Electric"
+                                    },
+                                    {
+                                        "id": "Kaduna Electric",
+                                        "title": "Kaduna Electric"
+                                    },
+                                    {
+                                        "id": "Benin Electric",
+                                        "title": "Benin Electric"
+                                    },
+                                    {
+                                        "id": "Yola Electric",
+                                        "title": "Yola Electric"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "TextCaption",
+                                "text": "Select location or state e.g., Abuja Electric."
+                            },
+                            {
+                                "type": "TextInput",
+                                "label": "💡",
+                                "name": "TextInput_1a628c",
+                                "required": true,
+                                "input-type": "number",
+                                "helper-text": "Please enter your meter number."
+                            },
+                            {
+                                "type": "TextInput",
+                                "label": "💸",
+                                "name": "TextInput_c75e65",
+                                "required": true,
+                                "input-type": "number",
+                                "helper-text": "Minimum amount is ₦2000."
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Next",
+                                "on-click-action": {
+                                    "name": "data_exchange",
+                                    "payload": {
+                                        "trigger": "validate_meter_details",
+                                        "company": "${form.Dropdown_831903}",
+                                        "meter_number": "${form.TextInput_1a628c}",
+                                        "amount": "${form.TextInput_c75e65}"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "SCREEN_TWO",
+            "title": "Meter Validation",
+            "refresh_on_back": false,
+            "data": {
+                "title": {
+                    "type": "string",
+                    "__example__": "Michael Mamman"
+                },
+                "name": {
+                    "type": "string",
+                    "__example__": "Michael Mamman"
+                },
+                "state": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                "address": {
+                    "type": "string",
+                    "__example__": "No 15"
+                },
+                "meterNumber": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                "amount": {
+                    "type": "string",
+                    "__example__": "Example"
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "TextBody",
+                        "text": "${data.title}"
+                    },
+                    {
+                        "type": "TextBody",
+                        "text": "${data.name}"
+                    },
+                    {
+                        "type": "TextBody",
+                        "text": "${data.address}"
+                    },
+                    {
+                        "type": "TextBody",
+                        "text": "${data.meterNumber}"
+                    },
+                    {
+                        "type": "TextBody",
+                        "text": "${data.state}"
+                    },
+                    {
+                        "type": "TextBody",
+                        "text": "${data.amount}"
+                    },
+                    {
+                        "type": "Footer",
+                        "label": "Proceed",
+                        "on-click-action": {
+                            "name": "navigate",
+                            "next": {
+                                "type": "screen",
+                                "name": "SCREEN_THREE"
+                            },
+                            "payload": {
+                                "state": "${data.state}",
+                                "meterNumber": "${data.meterNumber}",
+                                "amount": "${data.amount}",
+                                "name": "${data.name}",
+                                "address": "${data.address}"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "DATA_ERROR",
+            "title": "Something went Wrong",
+            "data": {
+                "msg": {
+                    "type": "string",
+                    "__example__": "Michael Mamman"
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "TextBody",
+                        "text": "${data.msg}"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ERROR",
+            "title": "Meter Validation",
+            "data": {
+                "title": {
+                    "type": "string",
+                    "__example__": "Michael Mamman"
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "TextBody",
+                        "text": "${data.title}"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "SCREEN_THREE",
+            "terminal": true,
+            "title": "M-Konnect",
+            "data": {
+                "name": {
+                    "type": "string",
+                    "__example__": "Michael Mamman"
+                },
+                "state": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                "address": {
+                    "type": "string",
+                    "__example__": "No 15"
+                },
+                "meterNumber": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                "amount": {
+                    "type": "string",
+                    "__example__": "Example"
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "flow_path",
+                        "children": [
+                            {
+                                "type": "TextInput",
+                                "name": "TextInput_73dbba",
+                                "label": "🔐",
+                                "required": true,
+                                "input-type": "passcode",
+                                "helper-text": "Please enter your transaction pin e.g., 1111"
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Submit",
+                                "on-click-action": {
+                                    "name": "complete",
+                                    "payload": {
+                                        "pin": "${form.TextInput_73dbba}",
+                                        "state": "${data.state}",
+                                        "meterNumber": "${data.meterNumber}",
+                                        "amount": "${data.amount}",
+                                        "name": "${data.name}",
+                                        "address": "${data.address}",
+                                        "id": "power_flow"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "BUY_AIRTIME",
+            "title": "M-Konnect",
+            "data": {},
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "flow_path",
+                        "children": [
+                            {
+                                "type": "RadioButtonsGroup",
+                                "label": "PLEASE SELECT NETWORK",
+                                "required": true,
+                                "name": "RadioButtonsGroup_f8bb5d",
+                                "data-source": [
+                                    {
+                                        "id": "0_MTN",
+                                        "title": "MTN"
+                                    },
+                                    {
+                                        "id": "1_GLO",
+                                        "title": "GLO"
+                                    },
+                                    {
+                                        "id": "2_AIRTEL",
+                                        "title": "AIRTEL"
+                                    },
+                                    {
+                                        "id": "3_9MOBILE",
+                                        "title": "9MOBILE"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Next",
+                                "on-click-action": {
+                                    "name": "navigate",
+                                    "next": {
+                                        "type": "screen",
+                                        "name": "screen_cetumf"
+                                    },
+                                    "payload": {
+                                        "screen_0_RadioButtonsGroup_0": "${form.RadioButtonsGroup_f8bb5d}"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "screen_cetumf",
+            "title": "M-Konnect",
+            "data": {
+                "screen_0_RadioButtonsGroup_0": {
+                    "type": "string",
+                    "__example__": "Example"
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "flow_path",
+                        "children": [
+                            {
+                                "type": "TextInput",
+                                "label": "Amount",
+                                "name": "TextInput_9e4aa8",
+                                "required": true,
+                                "input-type": "number",
+                                "helper-text": "Minimum amount is ₦50"
+                            },
+                            {
+                                "type": "TextInput",
+                                "label": "Phone Number",
+                                "name": "TextInput_82a2d3",
+                                "required": true,
+                                "input-type": "phone"
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Next",
+                                "on-click-action": {
+                                    "name": "navigate",
+                                    "next": {
+                                        "type": "screen",
+                                        "name": "screen_gnsyjl"
+                                    },
+                                    "payload": {
+                                        "screen_1_TextInput_0": "${form.TextInput_9e4aa8}",
+                                        "screen_1_TextInput_1": "${form.TextInput_82a2d3}",
+                                        "screen_0_RadioButtonsGroup_0": "${data.screen_0_RadioButtonsGroup_0}"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "screen_gnsyjl",
+            "title": "M-Konnect",
+            "data": {
+                "screen_1_TextInput_0": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                "screen_1_TextInput_1": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                "screen_0_RadioButtonsGroup_0": {
+                    "type": "string",
+                    "__example__": "Example"
+                }
+            },
+            "terminal": true,
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "flow_path",
+                        "children": [
+                            {
+                                "type": "TextInput",
+                                "label": "Pin",
+                                "name": "TextInput_82bd52",
+                                "required": true,
+                                "input-type": "passcode",
+                                "helper-text": "Please enter your transaction pin"
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Buy",
+                                "on-click-action": {
+                                    "name": "complete",
+                                    "payload": {
+                                        "screen_2_TextInput_0": "${form.TextInput_82bd52}",
+                                        "screen_1_TextInput_0": "${data.screen_1_TextInput_0}",
+                                        "screen_1_TextInput_1": "${data.screen_1_TextInput_1}",
+                                        "screen_0_RadioButtonsGroup_0": "${data.screen_0_RadioButtonsGroup_0}",
+                                        "id": "airtime_flow"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "MENU",
+            "title": "Menu",
+            "data": {
+                "menu": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "__example__": [
+                        {
+                            "id": "buy_data",
+                            "title": "Buy Data"
+                        },
+                        {
+                            "id": "buy_airtime",
+                            "title": "Buy Airtime"
+                        },
+                        {
+                            "id": "buy_electricity",
+                            "title": "Buy Electricity"
+                        },
+                        {
+                            "id": "fund_wallet",
+                            "title": "Fund Wallet"
+                        }
+                    ]
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "TextBody",
+                        "text": "What would you like to do today? 🎉"
+                    },
+                    {
+                        "type": "Form",
+                        "name": "menu_form",
+                        "children": [
+                            {
+                                "type": "Dropdown",
+                                "label": "Menu",
+                                "name": "menu",
+                                "data-source": [
+                                    {
+                                        "id": "buy_data",
+                                        "title": "Buy Data"
+                                    },
+                                    {
+                                        "id": "buy_airtime",
+                                        "title": "Buy Airtime"
+                                    },
+                                    {
+                                        "id": "buy_electricity",
+                                        "title": "Buy Electricity"
+                                    },
+                                    {
+                                        "id": "fund_wallet",
+                                        "title": "Fund Wallet"
+                                    },
+                                    {
+                                        "id": "check_balance",
+                                        "title": "Check Balance"
+                                    },
+                                    {
+                                        "id": "tutorials",
+                                        "title": "Tutorials"
+                                    },
+                                    {
+                                        "id": "saved_meter_numbers",
+                                        "title": "Saved Meter Numbers"
+                                    }
+                                ],
+                                "required": true,
+                                "on-select-action": {
+                                    "name": "data_exchange",
+                                    "payload": {
+                                        "trigger": "menu_selected",
+                                        "menu": "${form.menu}"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "BUY_DATA",
+            "title": "Buy Data",
+            "terminal": false,
+            "data": {
+                "network": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "__example__": [
+                        {
+                            "id": "MTN",
+                            "title": "MTN"
+                        },
+                        {
+                            "id": "GLO",
+                            "title": "GLO"
+                        },
+                        {
+                            "id": "AIRTEL",
+                            "title": "AIRTEL"
+                        },
+                        {
+                            "id": "9MOBILE",
+                            "title": "9MOBILE"
+                        }
+                    ]
+                },
+                "plan": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "__example__": [
+                        {
+                            "id": "1",
+                            "title": "MTN SME 150 500.0 MB"
+                        },
+                        {
+                            "id": "2",
+                            "title": "MTN SME 150 10.0 GB"
+                        }
+                    ]
+                },
+
+                "plan_type": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "__example__": [
+                        {
+                            "id": "1",
+                            "title": "SME"
+                        },
+                        {
+                            "id": "2",
+                            "title": "GIFTING"
+                        }
+                    ]
+                },
+                "is_plan_enabled": {
+                    "type": "boolean",
+                    "__example__": false
+                },
+                "is_plan_type_enabled": {
+                    "type": "boolean",
+                    "__example__": false
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "buy_data",
+                        "children": [
+                            {
+                                "type": "Dropdown",
+                                "label": "Network",
+                                "name": "network",
+                                "data-source": "${data.network}",
+                                "required": true,
+                                "on-select-action": {
+                                    "name": "data_exchange",
+                                    "payload": {
+                                        "trigger": "network_selected",
+                                        "network": "${form.network}",
+                                        "plan": "${form.plan}",
+                                        "plan_type": "${form.plan_type}"
+
+                                    }
+                                }
+                            },
+                              {
+                                "type": "Dropdown",
+                                "label": "Data Plan Type",
+                                "name": "plan_type",
+                                "data-source": "${data.plan_type}",
+                                "required": "${data.is_plan_type_enabled}",
+                                "enabled": "${data.is_plan_type_enabled}",
+                                "on-select-action": {
+                                    "name": "data_exchange",
+                                    "payload": {
+                                        "trigger": "plan_type_selected",
+                                        "network": "${form.network}",
+                                        "plan": "${form.plan}",
+                                        "plan_type": "${form.plan_type}"
+
+                                    }
+                                }
+                                
+                            },
+                            {
+                                "type": "Dropdown",
+                                "label": "Data Plan",
+                                "name": "plan",
+                                "data-source": "${data.plan}",
+                                "required": "${data.is_plan_enabled}",
+                                "enabled": "${data.is_plan_enabled}"
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Next",
+                                "on-click-action": {
+                                    "name": "navigate",
+                                    "next": {
+                                        "type": "screen",
+                                        "name": "data_complete"
+                                    },
+                                    "payload": {
+                                        "network": "${form.network}",
+                                        "plan": "${form.plan}",
+                                        "plan_type": "${form.plan_type}"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "data_complete",
+            "title": "M-Konnect",
+            "terminal": false,
+            "data": {
+                "network": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                 "plan": {
+                    "type": "string",
+                    "__example__": "Example"
+                },
+                    "plan_type": {
+                    "type": "string",
+                    "__example__": "Example"
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "flow_path",
+                        "children": [
+                            {
+                                "type": "TextInput",
+                                "label": "Phone",
+                                "name": "phone",
+                                "input-type": "phone",
+                                "required": true,
+                                "enabled": true
+                            },
+                            {
+                                "type": "TextInput",
+                                "label": "Pin",
+                                "name": "pin",
+                                "input-type": "password",
+                                "required": true,
+                                "enabled": true
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Buy Data",
+                                "on-click-action": {
+                                    "name": "data_exchange",
+                                    "payload": {
+                                        "network": "${data.network}",
+                                        "plan": "${data.plan}",
+                                        "plan_type": "${data.plan_type}",
+                                        "number": "${form.phone}",
+                                        "pin": "${form.pin}",
+                                        "id": "data_flow"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "FUND_WALLET",
+            "title": "Fund Wallet",
+            "data": {
+                "menu": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "__example__": [
+                        {
+                            "id": "ATM_card",
+                            "title": "ATM Card"
+                        },
+                        {
+                            "id": "bank_transfer",
+                            "title": "Bank Transfer"
+                        }
+                    ]
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "TextBody",
+                        "text": "How would you like to fund your wallet? 💸"
+                    },
+                    {
+                        "type": "Form",
+                        "name": "fund_form",
+                        "children": [
+                            {
+                                "type": "Dropdown",
+                                "label": "Fund Wallet",
+                                "name": "fund",
+                                "data-source": [
+                                    {
+                                        "id": "ATM_card",
+                                        "title": "ATM Card"
+                                    },
+                                    {
+                                        "id": "bank_transfer",
+                                        "title": "Bank Transfer"
+                                    }
+                                ],
+                                "required": true,
+                                "on-select-action": {
+                                    "name": "data_exchange",
+                                    "payload": {
+                                        "trigger": "fund_selected",
+                                        "menu": "${form.fund}"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "AMOUNT",
+            "title": "M-Konnect",
+            "data": {},
+            "terminal": true,
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "Form",
+                        "name": "flow_path",
+                        "children": [
+                            {
+                                "type": "TextInput",
+                                "label": "💸",
+                                "name": "TextInput_8b063d",
+                                "required": true,
+                                "input-type": "number",
+                                "helper-text": "Please enter amount"
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Done",
+                                "on-click-action": {
+                                    "name": "complete",
+                                    "payload": {
+                                        "amount": "${form.TextInput_8b063d}",
+                                        "id": "amount_flow"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "TUTORIALS",
+            "terminal": true,
+            "title": "Tutorials",
+            "data": {
+                "tutorials": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "__example__": [
+                        {
+                            "id": "buy_data",
+                            "title": "Buy Data"
+                        },
+                        {
+                            "id": "buy_airtime",
+                            "title": "Buy Airtime"
+                        },
+                        {
+                            "id": "buy_electricity",
+                            "title": "Buy Electricity"
+                        },
+                        {
+                            "id": "fund_wallet",
+                            "title": "Fund Wallet"
+                        }
+                    ]
+                }
+            },
+            "layout": {
+                "type": "SingleColumnLayout",
+                "children": [
+                    {
+                        "type": "TextBody",
+                        "text": "What would you like to learn? 👨🏾‍🎓"
+                    },
+                    {
+                        "type": "Form",
+                        "name": "tutorials_form",
+                        "children": [
+                            {
+                                "type": "RadioButtonsGroup",
+                                "name": "tutorials",
+                                "data-source": [
+                                    {
+                                        "id": "how_to_register",
+                                        "title": "How to Register"
+                                    },
+                                    {
+                                        "id": "how_to_buy_data",
+                                        "title": "How to Buy Data"
+                                    },
+                                    {
+                                        "id": "how_to_buy_airtime",
+                                        "title": "How to Buy Airtime"
+                                    },
+                                    {
+                                        "id": "how_to_buy_electricity",
+                                        "title": "How to Buy Electricity"
+                                    },
+                                    {
+                                        "id": "how_to_deposit_with_atm",
+                                        "title": "How to deposit with ATM"
+                                    },
+                                    {
+                                        "id": "fund_with_bank_transfer",
+                                        "title": "Fund with Bank Transfer"
+                                    }
+                                ],
+                                "required": true
+                            },
+                            {
+                                "type": "Footer",
+                                "label": "Submit",
+                                "on-click-action": {
+                                    "name": "complete",
+                                    "payload": {
+                                        "tutorials": "${form.tutorials}",
+                                        "id": "tutorials_flow"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+import mongoose from 'mongoose';
+
+// Define the schema for the data plans
+const dataPlanSchema = new mongoose.Schema({
+  id: { 
+    type: Number, 
+    required: true,
+},
+  Network: {
+    type: String, 
+    required: true 
+},
+  PlanType: {
+    type: String, 
+    required: true 
+},
+  Amount: { 
+    type: String, 
+    required: true 
+},
+  Size: { 
+    type: String, 
+    required: true 
+},
+  Validity: { 
+    type: String, 
+    required: true 
+},
+vendor: { 
+  type: String, 
+  required: true 
+}
+});
+
+// Create the Mongoose model for the data plans
+const DataPlan = mongoose.model('DataPlan', dataPlanSchema);
+
+export default DataPlan;

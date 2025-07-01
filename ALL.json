@@ -1,0 +1,446 @@
+[
+  {
+    "id": 6,
+    "Network": "MTN",
+    "PlanType": "SME",
+    "Amount": "150",
+    "Size": "500.0MB",
+    "Validity": "30days ",
+    "vendor": "usuf"
+  },
+  {
+    "id": 7,
+    "Network": "MTN",
+    "PlanType": "SME",
+    "Amount": "300",
+    "Size": "1.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 8,
+    "Network": "MTN",
+    "PlanType": "SME",
+    "Amount": "600",
+    "Size": "2.0GB",
+    "Validity": "30days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 44,
+    "Network": "MTN",
+    "PlanType": "SME",
+    "Amount": "900",
+    "Size": "3.0GB",
+    "Validity": "30days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 11,
+    "Network": "MTN",
+    "PlanType": "SME",
+    "Amount": "1500",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 43,
+    "Network": "MTN",
+    "PlanType": "SME",
+    "Amount": "3000",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 297,
+    "Network": "MTN",
+    "PlanType": "SME2",
+    "Amount": "150",
+    "Size": "500.0MB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 290,
+    "Network": "MTN",
+    "PlanType": "SME2",
+    "Amount": "300",
+    "Size": "1.0GB",
+    "Validity": "30days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 293,
+    "Network": "MTN",
+    "PlanType": "SME2",
+    "Amount": "600",
+    "Size": "2.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 294,
+    "Network": "MTN",
+    "PlanType": "SME2",
+    "Amount": "900",
+    "Size": "3.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 295,
+    "Network": "MTN",
+    "PlanType": "SME2",
+    "Amount": "1500",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 296,
+    "Network": "MTN",
+    "PlanType": "SME2",
+    "Amount": "3000",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 279,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "140",
+    "Size": "250.0MB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 207,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "170",
+    "Size": "500.0MB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 208,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "320",
+    "Size": "1.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 209,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "640",
+    "Size": "2.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 210,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "950",
+    "Size": "3.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 211,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1550",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 212,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "3000",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 298,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "3400",
+    "Size": "15.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 51,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "6000",
+    "Size": "20.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 219,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "11500",
+    "Size": "40.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 213,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "21000",
+    "Size": "75.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 214,
+    "Network": "MTN",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "27000",
+    "Size": "100.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 289,
+    "Network": "MTN",
+    "PlanType": "DATA COUPONS",
+    "Amount": "300",
+    "Size": "1.0GB",
+    "Validity": "7 days (*323*4# )",
+    "vendor": "usuf"
+  },
+  {
+    "id": 291,
+    "Network": "MTN",
+    "PlanType": "DATA COUPONS",
+    "Amount": "900",
+    "Size": "3.0GB",
+    "Validity": "30days (*323*4#)",
+    "vendor": "usuf"
+  },
+
+  {
+    "id": 244,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "90",
+    "Size": "100.0MB",
+    "Validity": "7 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 243,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "130",
+    "Size": "300.0MB",
+    "Validity": "7 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 242,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "170",
+    "Size": "500.0MB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 239,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "310",
+    "Size": "1.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 240,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "620",
+    "Size": "2.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 241,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1500",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 250,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "3000",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 256,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "4500",
+    "Size": "15.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 251,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "6000",
+    "Size": "20.0GB",
+    "Validity": "30days",
+    "vendor": "usuf"
+  },
+
+  {
+    "id": 264,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "100",
+    "Size": "200.0MB",
+    "Validity": "14  days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 263,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "150",
+    "Size": "500.0MB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 258,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "280",
+    "Size": "1.024GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 259,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "560",
+    "Size": "2.048GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 260,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "840",
+    "Size": "3.072GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 261,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1400",
+    "Size": "5.12GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 262,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "2700",
+    "Size": "10.24GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+
+  {
+    "id": 284,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "160",
+    "Size": "500.0MB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 280,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "250",
+    "Size": "1.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 281,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "500",
+    "Size": "2.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 282,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "750",
+    "Size": "3.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 287,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1000",
+    "Size": "4.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 283,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1250",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  },
+  {
+    "id": 285,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "2500",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "usuf"
+  }
+]

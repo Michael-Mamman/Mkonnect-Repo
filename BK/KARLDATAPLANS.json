@@ -1,0 +1,732 @@
+// MTN DATA PLANS
+
+[
+    {
+      "id": 212,
+      "Network": "MTN",
+      "PlanType": "SME",
+      "Amount": "150",
+      "Size": "500.0MB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 7,
+      "Network": "MTN",
+      "PlanType": "SME",
+      "Amount": "300",
+      "Size": "1.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 8,
+      "Network": "MTN",
+      "PlanType": "SME",
+      "Amount": "600",
+      "Size": "2.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 44,
+      "Network": "MTN",
+      "PlanType": "SME",
+      "Amount": "900",
+      "Size": "3.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 11,
+      "Network": "MTN",
+      "PlanType": "SME",
+      "Amount": "1500",
+      "Size": "5.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 43,
+      "Network": "MTN",
+      "PlanType": "SME",
+      "Amount": "3000",
+      "Size": "10.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 213,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "50",
+      "Size": "50.0MB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 214,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "120",
+      "Size": "150.0MB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 215,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "140",
+      "Size": "250.0MB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 216,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "170",
+      "Size": "500.0MB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 217,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "320",
+      "Size": "1.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 218,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "640",
+      "Size": "2.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 219,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "960",
+      "Size": "3.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 220,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "1600",
+      "Size": "5.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 221,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "3000",
+      "Size": "10.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 223,
+      "Network": "MTN",
+      "PlanType": "CORPORATE GIFTING",
+      "Amount": "6000",
+      "Size": "20.0GB",
+      "Validity": "30 days",
+      "vendor": "karl"
+    },
+    {
+      "id": 313,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "150",
+      "Size": "500.0MB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 310,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "280",
+      "Size": "1.0GB",
+      "Validity": "1 day [PROMO OFFER]",
+      "vendor": "karl"
+    },
+    {
+      "id": 314,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "300",
+      "Size": "1.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 319,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "450",
+      "Size": "1.5GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 315,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "600",
+      "Size": "2.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 311,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "600",
+      "Size": "3.5GB",
+      "Validity": "2 DAYS [PROMO OFFER]",
+      "vendor": "karl"
+    },
+    {
+      "id": 316,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "900",
+      "Size": "3.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 320,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "1200",
+      "Size": "4.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 317,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "1500",
+      "Size": "5.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 321,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "1800",
+      "Size": "6.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 322,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "2000",
+      "Size": "7.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 312,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "2300",
+      "Size": "15.0GB",
+      "Validity": "7 DAYS [PROMO OFFER]",
+      "vendor": "karl"
+    },
+    {
+      "id": 318,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "3000",
+      "Size": "10.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 323,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "10000",
+      "Size": "35.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    },
+    {
+      "id": 324,
+      "Network": "MTN",
+      "PlanType": "GIFTING",
+      "Amount": "12000",
+      "Size": "40.0GB",
+      "Validity": "30 DAYS",
+      "vendor": "karl"
+    }
+  ]
+  
+  
+  //  GLO DATA PLANS
+  
+  
+  [
+    {
+    "id": 246,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "140",
+    "Size": "200.0MB",
+    "Validity": "14 days corporate gifting",
+    "vendor": "karl"
+  },
+  {
+    "id": 247,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "150",
+    "Size": "500.0MB",
+    "Validity": "30 days corporate gifting",
+    "vendor": "karl"
+  },
+  {
+    "id": 248,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "280",
+    "Size": "1.0GB",
+    "Validity": "30 days corporate gifting",
+    "vendor": "karl"
+  },
+  {
+    "id": 249,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "560",
+    "Size": "2.0GB",
+    "Validity": "30 days corporate gifting",
+    "vendor": "karl"
+  },
+  {
+    "id": 250,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "840",
+    "Size": "3.0GB",
+    "Validity": "30 days corporate gifting",
+    "vendor": "karl"
+  },
+  {
+    "id": 251,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1400",
+    "Size": "5.0GB",
+    "Validity": "30 days corporate gifting",
+    "vendor": "karl"
+  },
+  {
+    "id": 252,
+    "Network": "GLO",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "2700",
+    "Size": "10.0GB",
+    "Validity": "30 days corporate gifting",
+    "vendor": "karl"
+  },
+  {
+    "id": 293,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "55",
+    "Size": "50.0MB",
+    "Validity": "1 Day",
+    "vendor": "karl"
+  },
+  {
+    "id": 294,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "130",
+    "Size": "150.0MB",
+    "Validity": "1 Day",
+    "vendor": "karl"
+  },
+  {
+    "id": 295,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "250",
+    "Size": "350.0MB",
+    "Validity": "2 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 296,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "550",
+    "Size": "1.35GB",
+    "Validity": "14 days (800 day + 550 night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 297,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "1000",
+    "Size": "3.9GB",
+    "Validity": "30 days (1.9 day +2gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 298,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "1550",
+    "Size": "7.5GB",
+    "Validity": "30 days (3.5 day + 4gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 299,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "2000",
+    "Size": "9.2GB",
+    "Validity": "30 days (5.2 day + 4gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 300,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "2500",
+    "Size": "10.8GB",
+    "Validity": "30 days (6.8 day + 4gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 301,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "2950",
+    "Size": "14.0GB",
+    "Validity": "30 days (10 day + 4gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 302,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "4000",
+    "Size": "18.0GB",
+    "Validity": "30 days (14 day + 4gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 303,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "5000",
+    "Size": "24.0GB",
+    "Validity": "30 days (20 day + 4gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 304,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "8000",
+    "Size": "29.5GB",
+    "Validity": "30 days (27.5 day + 2gb night)",
+    "vendor": "karl"
+  },
+  {
+    "id": 305,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "10000",
+    "Size": "50.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 306,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "15000",
+    "Size": "93.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 307,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "18000",
+    "Size": "119.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 308,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "20000",
+    "Size": "138.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 309,
+    "Network": "GLO",
+    "PlanType": "GIFTING",
+    "Amount": "100000",
+    "Size": "1.0TB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  }
+  ]
+  
+  // AIRTEL DATA PLANS
+  
+  [
+    {
+    "id": 225,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "90",
+    "Size": "100.0MB",
+    "Validity": "7 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 325,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "130",
+    "Size": "300.0MB",
+    "Validity": "14 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 227,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "170",
+    "Size": "500.0MB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 228,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "310",
+    "Size": "1.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 229,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "620",
+    "Size": "2.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 230,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1500",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 231,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "3000",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 233,
+    "Network": "AIRTEL",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "6000",
+    "Size": "20.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  }
+  ]
+  
+  // 9MOBILE DATA PLANS
+  
+  [
+    {
+    "id": 240,
+    "Network": "9MOBILE",
+    "PlanType": "SME",
+    "Amount": "450",
+    "Size": "1.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 241,
+    "Network": "9MOBILE",
+    "PlanType": "SME",
+    "Amount": "600",
+    "Size": "1.5GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 242,
+    "Network": "9MOBILE",
+    "PlanType": "SME",
+    "Amount": "900",
+    "Size": "2.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 243,
+    "Network": "9MOBILE",
+    "PlanType": "SME",
+    "Amount": "1300",
+    "Size": "3.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 244,
+    "Network": "9MOBILE",
+    "PlanType": "SME",
+    "Amount": "2000",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 245,
+    "Network": "9MOBILE",
+    "PlanType": "SME",
+    "Amount": "4000",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 253,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "50",
+    "Size": "25.0MB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 254,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "160",
+    "Size": "500.0MB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 255,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "250",
+    "Size": "1.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 258,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "500",
+    "Size": "2.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 259,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "750",
+    "Size": "3.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 260,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1000",
+    "Size": "4.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 261,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1100",
+    "Size": "4.5GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 262,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "1250",
+    "Size": "5.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 263,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "2500",
+    "Size": "10.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  },
+  {
+    "id": 264,
+    "Network": "9MOBILE",
+    "PlanType": "CORPORATE GIFTING",
+    "Amount": "2700",
+    "Size": "11.0GB",
+    "Validity": "30 days",
+    "vendor": "karl"
+  }
+  ]

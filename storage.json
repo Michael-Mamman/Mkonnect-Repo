@@ -1,0 +1,48 @@
+{
+
+    version: '3.0',
+  
+    screen: 'SCREEN_TWO',
+  
+    data: {
+  
+      title: 'Your meter details have been validated. Please confirm the details and proceed.',
+  
+      name: 'Name: LONGWA  ',
+  
+      state: 'State: Jos Electric',
+  
+      address: 'Address: (STATE LOWCOST)',
+  
+      meterNumber: 'Meter Number: 0101170192153',
+  
+      amount: 'Amount: ₦2000'
+  
+    }
+  
+  }
+
+
+  {
+
+    version: '3.0',
+  
+    screen: 'SCREEN_TWO',
+  
+    data: {
+  
+      title: 'An error occurred while validating your meter details. Please check your meter information and try again.',
+  
+      name: ' ',
+  
+      state: ' ',
+  
+      address: ' ',
+  
+      meterNumber: ' ',
+  
+      amount: ' '
+  
+    }
+  
+  }

@@ -1,0 +1,1972 @@
+[
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26061008,
+      "account_name": "MKONNECT/IDI ELIZABETH",
+      "account_number": "9963483034",
+      "created_at": "2024-11-08T09:36:10.000Z",
+      "updated_at": "2024-12-27T07:54:41.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 221386498,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26033422,
+      "account_name": "MKONNECT/LYDIA BELLO",
+      "account_number": "9963207171",
+      "created_at": "2024-11-08T09:23:48.000Z",
+      "updated_at": "2024-12-24T21:16:09.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 220531837,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25995980,
+      "account_name": "MKONNECT/JOSHUA PLANGKAT ISAIAH",
+      "account_number": "9962832752",
+      "created_at": "2024-11-08T09:09:30.000Z",
+      "updated_at": "2024-12-23T13:16:22.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 220012602,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25830115,
+      "account_name": "MKONNECT/BLESSING VICTORIA EMMANUEL",
+      "account_number": "9899683418",
+      "created_at": "2024-10-07T10:40:32.000Z",
+      "updated_at": "2024-12-09T00:19:27.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 214846964,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25819367,
+      "account_name": "MKONNECT/ONWUCHEKWA JOEL",
+      "account_number": "9899575931",
+      "created_at": "2024-10-07T10:35:11.000Z",
+      "updated_at": "2024-12-06T12:25:09.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 214054245,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25815519,
+      "account_name": "MKONNECT/JEMISEYE BOLUWATIFE",
+      "account_number": "9899537456",
+      "created_at": "2024-10-07T10:33:15.000Z",
+      "updated_at": "2024-12-05T01:49:03.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 213536691,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25813680,
+      "account_name": "MKONNECT/SOLOMON JOY",
+      "account_number": "9899519061",
+      "created_at": "2024-10-07T10:32:23.000Z",
+      "updated_at": "2024-12-04T12:45:51.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 213344146,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25801500,
+      "account_name": "MKONNECT/DANIEL ISAAC",
+      "account_number": "9899397263",
+      "created_at": "2024-10-07T10:25:25.000Z",
+      "updated_at": "2024-12-02T18:23:31.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 212749584,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25765081,
+      "account_name": "MKONNECT/AISOSA STEPHINE EGHAREVBA",
+      "account_number": "9899033075",
+      "created_at": "2024-10-07T09:59:04.000Z",
+      "updated_at": "2024-11-27T12:47:14.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 210996001,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25744765,
+      "account_name": "MKONNECT/DASH WALLY",
+      "account_number": "9898829912",
+      "created_at": "2024-10-07T09:47:19.000Z",
+      "updated_at": "2024-11-24T16:03:34.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 210062634,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25747999,
+      "account_name": "MKONNECT/KROMNAN DASHUWAR",
+      "account_number": "9898862258",
+      "created_at": "2024-10-07T09:49:36.000Z",
+      "updated_at": "2024-11-24T15:12:40.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 210051850,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25762924,
+      "account_name": "MKONNECT/KAMBAJ LEWIS",
+      "account_number": "9899011503",
+      "created_at": "2024-10-07T09:58:06.000Z",
+      "updated_at": "2024-11-22T18:54:59.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 209493903,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25721386,
+      "account_name": "MKONNECT/KAMBAJ LEWIS",
+      "account_number": "9898596124",
+      "created_at": "2024-10-07T09:25:55.000Z",
+      "updated_at": "2024-11-20T15:13:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 208795881,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25704016,
+      "account_name": "MKONNECT/MICHAEL MKONNECT",
+      "account_number": "9898422423",
+      "created_at": "2024-10-07T09:13:21.000Z",
+      "updated_at": "2024-11-14T13:53:11.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 206862618,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 25701209,
+      "account_name": "MKONNECT/MAGGAI YOHANNA",
+      "account_number": "9898394351",
+      "created_at": "2024-10-07T09:11:33.000Z",
+      "updated_at": "2024-11-14T13:29:32.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 206852355,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25300695,
+      "account_name": "MKONNECT/MUFUTAU MOSOBALAJE",
+      "account_number": "9781890008",
+      "created_at": "2024-09-10T17:02:26.000Z",
+      "updated_at": "2024-11-09T18:31:33.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 205319970,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26078881,
+      "account_name": "MKONNECT/MUFUTAU MOSOBALAJE",
+      "account_number": "9963661740",
+      "created_at": "2024-11-08T10:03:29.000Z",
+      "updated_at": "2024-12-27T15:38:08.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 205319970,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25262482,
+      "account_name": "MKONNECT/JOHN ORAL",
+      "account_number": "9781507878",
+      "created_at": "2024-09-10T16:29:51.000Z",
+      "updated_at": "2024-11-02T14:14:58.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 202979971,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26072389,
+      "account_name": "MKONNECT/JOHN ORAL",
+      "account_number": "9963596846",
+      "created_at": "2024-11-08T09:53:23.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 202979971,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25231642,
+      "account_name": "MKONNECT/BASSEY EPHRAIM",
+      "account_number": "9781199471",
+      "created_at": "2024-09-10T16:04:30.000Z",
+      "updated_at": "2024-10-28T09:40:41.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 201169332,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26071601,
+      "account_name": "MKONNECT/BASSEY EPHRAIM",
+      "account_number": "9963588960",
+      "created_at": "2024-11-08T09:52:00.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 201169332,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25230416,
+      "account_name": "MKONNECT/USEN EVELYN LEVI",
+      "account_number": "9781187212",
+      "created_at": "2024-09-10T16:03:31.000Z",
+      "updated_at": "2024-10-27T23:36:39.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 201043416,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26082647,
+      "account_name": "MKONNECT/USEN EVELYN LEVI",
+      "account_number": "9963699400",
+      "created_at": "2024-11-08T10:08:48.000Z",
+      "updated_at": "2024-12-27T15:38:08.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 201043416,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25195307,
+      "account_name": "MKONNECT/FEMI AYOMIDE",
+      "account_number": "9780836128",
+      "created_at": "2024-09-10T15:37:37.000Z",
+      "updated_at": "2024-10-21T17:57:21.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 199190009,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26070786,
+      "account_name": "MKONNECT/FEMI AYOMIDE",
+      "account_number": "9963580816",
+      "created_at": "2024-11-08T09:50:43.000Z",
+      "updated_at": "2024-12-27T15:38:08.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 199190009,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25193488,
+      "account_name": "MKONNECT/CHUKS OKADE",
+      "account_number": "9780817932",
+      "created_at": "2024-09-10T15:36:23.000Z",
+      "updated_at": "2024-10-21T13:12:51.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 199135883,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26073541,
+      "account_name": "MKONNECT/CHUKS OKADE",
+      "account_number": "9963608369",
+      "created_at": "2024-11-08T09:55:05.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 199135883,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25180381,
+      "account_name": "MKONNECT/JONAH GIFT",
+      "account_number": "9780686866",
+      "created_at": "2024-09-10T15:26:51.000Z",
+      "updated_at": "2024-10-18T13:06:32.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 198287146,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26082400,
+      "account_name": "MKONNECT/JONAH GIFT",
+      "account_number": "9963696935",
+      "created_at": "2024-11-08T10:08:28.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 198287146,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 25153530,
+      "account_name": "MKONNECT/KINGS JOSHUA",
+      "account_number": "9780418360",
+      "created_at": "2024-09-10T14:07:44.000Z",
+      "updated_at": "2024-10-13T21:12:41.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 196970458,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26076629,
+      "account_name": "MKONNECT/KINGS JOSHUA",
+      "account_number": "9963639226",
+      "created_at": "2024-11-08T09:59:54.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 196970458,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 24334542,
+      "account_name": "MKONNECT/ATTAH DIVINE",
+      "account_number": "9318893382",
+      "created_at": "2024-08-06T12:27:24.000Z",
+      "updated_at": "2024-10-05T16:58:56.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 194781217,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26081965,
+      "account_name": "MKONNECT/ATTAH DIVINE",
+      "account_number": "9963692580",
+      "created_at": "2024-11-08T10:07:51.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 194781217,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 24266488,
+      "account_name": "MKONNECT/EMEKA OGUAMA",
+      "account_number": "9318561962",
+      "created_at": "2024-08-06T12:17:10.000Z",
+      "updated_at": "2024-09-22T14:18:34.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 190974126,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26072859,
+      "account_name": "MKONNECT/EMEKA OGUAMA",
+      "account_number": "9963601542",
+      "created_at": "2024-11-08T09:54:09.000Z",
+      "updated_at": "2024-12-27T15:38:08.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 190974126,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 24211409,
+      "account_name": "MKONNECT/MUSA BENJAMIN",
+      "account_number": "9318288179",
+      "created_at": "2024-08-06T12:06:24.000Z",
+      "updated_at": "2024-09-13T14:59:37.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 188460028,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26068692,
+      "account_name": "MKONNECT/MUSA BENJAMIN",
+      "account_number": "9963559870",
+      "created_at": "2024-11-08T09:47:31.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 188460028,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 24076460,
+      "account_name": "MKONNECT/YUSUPH HEPHZIBAH",
+      "account_number": "9308309860",
+      "created_at": "2024-07-19T09:51:11.000Z",
+      "updated_at": "2024-09-03T09:46:57.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 185368592,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26075865,
+      "account_name": "MKONNECT/YUSUPH HEPHZIBAH",
+      "account_number": "9963631608",
+      "created_at": "2024-11-08T09:58:43.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 185368592,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 24073916,
+      "account_name": "MKONNECT/TSAKU ASHEZI",
+      "account_number": "9308284428",
+      "created_at": "2024-07-19T09:50:21.000Z",
+      "updated_at": "2024-09-02T19:19:41.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 185212137,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26075928,
+      "account_name": "MKONNECT/TSAKU ASHEZI",
+      "account_number": "9963632227",
+      "created_at": "2024-11-08T09:58:48.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 185212137,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 24057943,
+      "account_name": "MKONNECT/JAMES PAKSHAR STEPHEN",
+      "account_number": "9308124698",
+      "created_at": "2024-07-19T09:45:09.000Z",
+      "updated_at": "2024-08-30T19:22:38.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 184339543,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26082577,
+      "account_name": "MKONNECT/JAMES PAKSHAR STEPHEN",
+      "account_number": "9963698702",
+      "created_at": "2024-11-08T10:08:43.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 184339543,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22388573,
+      "account_name": "MKONNECT/EKELAKA FAVOUR",
+      "account_number": "9304518253",
+      "created_at": "2024-06-19T11:11:12.000Z",
+      "updated_at": "2024-08-05T15:04:20.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 178104318,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26066291,
+      "account_name": "MKONNECT/EKELAKA FAVOUR",
+      "account_number": "9963535861",
+      "created_at": "2024-11-08T09:43:37.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 178104318,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22382825,
+      "account_name": "MKONNECT/AISHAT SHITTU",
+      "account_number": "9304460778",
+      "created_at": "2024-06-19T11:09:20.000Z",
+      "updated_at": "2024-08-04T14:22:29.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 177891763,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26078055,
+      "account_name": "MKONNECT/AISHAT SHITTU",
+      "account_number": "9963653486",
+      "created_at": "2024-11-08T10:02:15.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 177891763,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22370624,
+      "account_name": "MKONNECT/ANAMEKERE UDO EMASE",
+      "account_number": "9304338763",
+      "created_at": "2024-06-19T11:05:17.000Z",
+      "updated_at": "2024-08-02T13:57:57.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 177510293,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26069821,
+      "account_name": "MKONNECT/ANAMEKERE UDO EMASE",
+      "account_number": "9963571160",
+      "created_at": "2024-11-08T09:49:15.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 177510293,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22341456,
+      "account_name": "MKONNECT/NMESOMA JOY EZERIOHA",
+      "account_number": "9304047087",
+      "created_at": "2024-06-19T10:54:55.000Z",
+      "updated_at": "2024-07-30T03:40:08.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176890918,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26073845,
+      "account_name": "MKONNECT/NMESOMA JOY EZERIOHA",
+      "account_number": "9963611408",
+      "created_at": "2024-11-08T09:55:34.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176890918,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22323834,
+      "account_name": "MKONNECT/ESTHER EZE",
+      "account_number": "9303870866",
+      "created_at": "2024-06-19T10:49:09.000Z",
+      "updated_at": "2024-07-27T18:35:10.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176525800,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26079276,
+      "account_name": "MKONNECT/ESTHER EZE",
+      "account_number": "9963665690",
+      "created_at": "2024-11-08T10:04:02.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176525800,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22295971,
+      "account_name": "MKONNECT/HARAKARI LADI",
+      "account_number": "9303592236",
+      "created_at": "2024-06-19T10:38:26.000Z",
+      "updated_at": "2024-07-24T19:51:26.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176074557,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26074875,
+      "account_name": "MKONNECT/HARAKARI LADI",
+      "account_number": "9963621704",
+      "created_at": "2024-11-08T09:57:14.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176074557,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22293467,
+      "account_name": "MKONNECT/OCHEDI EMMANUEL",
+      "account_number": "9303567199",
+      "created_at": "2024-06-19T10:35:00.000Z",
+      "updated_at": "2024-07-24T14:51:04.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176037370,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26072695,
+      "account_name": "MKONNECT/OCHEDI EMMANUEL",
+      "account_number": "9963599902",
+      "created_at": "2024-11-08T09:53:52.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 176037370,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22252586,
+      "account_name": "MKONNECT/FAREEDAH HARUN MUKHTAR",
+      "account_number": "9303158386",
+      "created_at": "2024-06-19T10:17:43.000Z",
+      "updated_at": "2024-07-20T12:28:04.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 175440103,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26082077,
+      "account_name": "MKONNECT/FAREEDAH HARUN MUKHTAR",
+      "account_number": "9963693707",
+      "created_at": "2024-11-08T10:08:00.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 175440103,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22230357,
+      "account_name": "MKONNECT/BOKKOS NAOMI",
+      "account_number": "9302936093",
+      "created_at": "2024-06-19T10:08:11.000Z",
+      "updated_at": "2024-07-17T21:22:12.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 175061144,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26066780,
+      "account_name": "MKONNECT/BOKKOS NAOMI",
+      "account_number": "9963540753",
+      "created_at": "2024-11-08T09:44:23.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 175061144,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22209857,
+      "account_name": "MKONNECT/USMAN KASHIM",
+      "account_number": "9302731092",
+      "created_at": "2024-06-19T09:57:57.000Z",
+      "updated_at": "2024-07-16T07:41:01.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 174831040,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26072147,
+      "account_name": "MKONNECT/USMAN KASHIM",
+      "account_number": "9963594426",
+      "created_at": "2024-11-08T09:52:57.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 174831040,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 22157913,
+      "account_name": "MKONNECT/KERI AKPENA",
+      "account_number": "9302211653",
+      "created_at": "2024-06-19T09:22:37.000Z",
+      "updated_at": "2024-07-10T18:52:59.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 174263791,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26065971,
+      "account_name": "MKONNECT/KERI AKPENA",
+      "account_number": "9963532664",
+      "created_at": "2024-11-08T09:43:08.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 174263791,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21235034,
+      "account_name": "MKONNECT/DASHUWAR NANTOK",
+      "account_number": "9349583470",
+      "created_at": "2024-05-05T19:50:13.000Z",
+      "updated_at": "2024-07-07T20:48:02.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 173940781,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26081442,
+      "account_name": "MKONNECT/DASHUWAR NANTOK",
+      "account_number": "9963687351",
+      "created_at": "2024-11-08T10:07:09.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 173940781,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21233664,
+      "account_name": "MKONNECT/DIWA HYELNI",
+      "account_number": "9349569777",
+      "created_at": "2024-05-05T19:49:37.000Z",
+      "updated_at": "2024-07-07T15:13:35.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 173916511,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26066693,
+      "account_name": "MKONNECT/DIWA HYELNI",
+      "account_number": "9963539883",
+      "created_at": "2024-11-08T09:44:15.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 173916511,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21085017,
+      "account_name": "MKONNECT/USETIM DIANA",
+      "account_number": "9348840947",
+      "created_at": "2024-05-05T19:21:17.000Z",
+      "updated_at": "2024-06-29T06:26:41.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172994060,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26073522,
+      "account_name": "MKONNECT/USETIM DIANA",
+      "account_number": "9963608170",
+      "created_at": "2024-11-08T09:55:03.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172994060,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21082957,
+      "account_name": "MKONNECT/AHMAD ABDULRASHEED",
+      "account_number": "9348831813",
+      "created_at": "2024-05-05T19:20:54.000Z",
+      "updated_at": "2024-06-29T04:18:57.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172989503,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26074517,
+      "account_name": "MKONNECT/AHMAD ABDULRASHEED",
+      "account_number": "9963618122",
+      "created_at": "2024-11-08T09:56:41.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172989503,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21082952,
+      "account_name": "MKONNECT/SOLUMTOCHUKWU ELOKA",
+      "account_number": "9348831765",
+      "created_at": "2024-05-05T19:20:54.000Z",
+      "updated_at": "2024-06-29T04:14:00.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172989404,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26075287,
+      "account_name": "MKONNECT/SOLUMTOCHUKWU ELOKA",
+      "account_number": "9963625829",
+      "created_at": "2024-11-08T09:57:51.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172989404,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21068650,
+      "account_name": "MKONNECT/CHUKWUDI EKESIOBI",
+      "account_number": "9348768463",
+      "created_at": "2024-05-05T19:18:23.000Z",
+      "updated_at": "2024-06-28T07:48:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172897001,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26080220,
+      "account_name": "MKONNECT/CHUKWUDI EKESIOBI",
+      "account_number": "9963675130",
+      "created_at": "2024-11-08T10:05:22.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172897001,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21016665,
+      "account_name": "MKONNECT/WILLIAMS ABAH",
+      "account_number": "9348534932",
+      "created_at": "2024-05-05T19:09:38.000Z",
+      "updated_at": "2024-06-26T09:41:58.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172660544,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26081307,
+      "account_name": "MKONNECT/WILLIAMS ABAH",
+      "account_number": "9963686000",
+      "created_at": "2024-11-08T10:06:56.000Z",
+      "updated_at": "2024-12-27T15:38:08.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172660544,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21010697,
+      "account_name": "MKONNECT/NWAKA CHINEDU STEPHEN",
+      "account_number": "9348506629",
+      "created_at": "2024-05-05T19:08:40.000Z",
+      "updated_at": "2024-06-25T19:16:06.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172617011,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26078858,
+      "account_name": "MKONNECT/NWAKA CHINEDU STEPHEN",
+      "account_number": "9963661513",
+      "created_at": "2024-11-08T10:03:27.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172617011,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21003754,
+      "account_name": "MKONNECT/OLAIYA TAIYE",
+      "account_number": "9348475697",
+      "created_at": "2024-05-05T19:07:27.000Z",
+      "updated_at": "2024-06-25T10:04:19.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172559183,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26070925,
+      "account_name": "MKONNECT/OLAIYA TAIYE",
+      "account_number": "9963582205",
+      "created_at": "2024-11-08T09:50:55.000Z",
+      "updated_at": "2024-12-27T15:38:07.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172559183,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ],
+  [
+    {
+      "bank": {
+        "name": "Wema Bank",
+        "id": 20,
+        "slug": "wema-bank"
+      },
+      "id": 21002213,
+      "account_name": "MKONNECT/PRECIOUS ELISHA",
+      "account_number": "9348468914",
+      "created_at": "2024-05-05T19:07:08.000Z",
+      "updated_at": "2024-06-25T06:59:45.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172540873,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    },
+    {
+      "bank": {
+        "name": "Paystack-Titan",
+        "id": 629,
+        "slug": "titan-paystack"
+      },
+      "id": 26082792,
+      "account_name": "MKONNECT/PRECIOUS ELISHA",
+      "account_number": "9963700854",
+      "created_at": "2024-11-08T10:08:58.000Z",
+      "updated_at": "2024-12-27T15:38:08.000Z",
+      "currency": "NGN",
+      "split_config": null,
+      "active": true,
+      "assigned": true,
+      "assignment": {
+        "assignee_id": 172540873,
+        "assignee_type": "Customer",
+        "account_type": "PAY-WITH-TRANSFER-RECURRING",
+        "integration": 1114628
+      }
+    }
+  ]
+]
